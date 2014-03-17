@@ -1,0 +1,5 @@
+# file: bootstraps/tasks/main.yml
+
+- name: Bootstraps | Run a list of bootstrap commands
+  shell: sudo su - {{item.name}} -c '{{item.command}}'
+  with_items: bootstraps_commands
