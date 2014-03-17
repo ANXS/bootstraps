@@ -11,8 +11,10 @@ Ansible script which will run a set of bootstrap scripts for users
 
 ```yaml
 bootstraps_commands:
-  - user: pjan
+  - user: foo
     command: "git clone --recursive https://github.com/pjan/ubuntu-dotfiles.git && cd ubuntu-dotfiles && set -- -f && source bootstrap.sh"
+  - user: bar
+    command: "cd /tmp && git clone --recursive https://github.com/pjan/vim-config.git && cd vim-config && set -- -f && source bootstrap.sh && sudo rm -r /tmp/vim-config"
 ```
 
 
