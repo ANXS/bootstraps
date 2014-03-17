@@ -1,6 +1,6 @@
 ## Ansibles - bootstraps [![Build Status](https://travis-ci.org/Ansibles/bootstraps.png)](https://travis-ci.org/Ansibles/bootstraps)
 
-Ansible script which will run a set of bootstrap scripts for users.
+Ansible script which will run a set of bootstrap scripts for users
 
 
 #### Requirements & Dependencies
