@@ -2,7 +2,7 @@
 
 galaxy_info:
   author: pjan vandaele
-  company: Ansibles
+  company: ANXS
   description: run a list of bootstrap commands (e.g. dotfiles, ...)
   min_ansible_version: 1.4
   license: MIT

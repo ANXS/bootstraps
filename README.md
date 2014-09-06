@@ -1,4 +1,4 @@
-## Ansibles - bootstraps [![Build Status](https://travis-ci.org/Ansibles/bootstraps.png)](https://travis-ci.org/Ansibles/bootstraps)
+## ANXS - bootstraps [![Build Status](https://travis-ci.org/ANXS/bootstraps.png)](https://travis-ci.org/ANXS/bootstraps)
 
 Ansible script which will run a set of bootstrap scripts for users
 
@@ -25,4 +25,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ansibles/bootstraps/issues)!
+Are [welcome](https://github.com/ANXS/bootstraps/issues)!
